@@ -143,6 +143,7 @@ class Hello(object):
     模數:<input type=text name="a"><br />
     齒數:<input type=text name="b"><br />
     壓力角:<input type=text name="c"><br />
+    範圍請輸入15到80之間
     <input type=submit value=send>
     </form>'''
         return outstring
